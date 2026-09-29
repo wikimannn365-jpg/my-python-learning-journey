@@ -3,9 +3,9 @@
 Personal repository documenting my journey learning python as i work toward a cybersecurity career.
 
 ## About Me
-23-years-old aspiring cybersecurity professional, currently:
+23-year-old aspiring cybersecurity professional, currently:
 - Working full-time while studying independently
-- Pursuing compTIA+, CCNA, and Security+ Certifications
+- Pursuing CompTIA+, CCNA, and Security+ Certifications
 - Learning Python through CS50P, Books (which I love reading)
 - Planning Fachinformatiker Systemintegration Ausbildung
 
